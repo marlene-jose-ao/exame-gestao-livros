@@ -10,6 +10,6 @@
 7. Abrir a aplicação GestaoLivros-x86_64
    
 ## Configuração da Base de dados
-nome do banco de dados: base_exame_tarefas
-Usuario do banco de dados: root
-Senha do banco de dados: klb@@13%
+- nome do banco de dados: base_exame_tarefas
+- Usuario do banco de dados: root
+- Senha do banco de dados: klb@@13%
